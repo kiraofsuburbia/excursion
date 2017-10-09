@@ -19,3 +19,6 @@ p {
   color: gray;
   font-size: 21px;
 }
+#copyright {
+  text-align: right;
+}
